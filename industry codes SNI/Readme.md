@@ -38,6 +38,21 @@ SNI is hierarchical, with multiple levels of detail:
 | **SNI 2025** | From end of 2025     | Updated NACE (post-Rev. 2)   | Adapts to modern industries, digital economy, societal changes. Some codes split/moved |
 
 ---
+## Crosswalk between versions
+ 
+| SNI92/02G | Text | Skapas utifrån följande SNI92 el. SNI2002-koder | Ingående koder SNI2007, 2-siffer | SNI2007G-Kod | Bokstavs-nivå |
+|----|------|-----------------------------------------------|----------------------------------|--------------|---------------|
+| 00 | Ej specificerad verksamhet | 00 | 00 | G99 | |
+| 01 | Jordbruk, skogsbruk och fiske | 01–05 | 01–03 | G01 | A |
+| 02 | Tillverkning och utvinning | 10–37 | 05–33 | G02 | B+C |
+| 03 | Energiproduktion, vattenförsörjning och avfallshantering | 40–41, 90 | 35–39 | G03 | D+E |
+| 04 | Byggverksamhet | 45 | 41–43 | G04 | F |
+| 05 | Handel och kommunikation | 50–52, 60–64 | 45–47, 49–53, 58–63 | G05, G06, G08 | G+H+J |
+| 06 | Finansiell verksamhet och företagstjänster | 65–72, 74 | 64–66, 68–82 | G09, G10, G11 | K+L+M+N |
+| 07 | Utbildning och forskning | 73, 80 | 85 | G13 | P |
+| 08 | Vård och omsorg | 85 | 86–88 | G14 | Q |
+| 09 | Personliga och kulturella tjänster | 55, 91–95 | 55–56, 90–99 | G07, G15 | I+R+S+T+U |
+| 10 | Offentlig förvaltning m.m. | 75, 99 | 84 | G12 | O |
 
 
 ## Resources
